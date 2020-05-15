@@ -954,8 +954,8 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     wallOfDarkness_name: "Muro das Trevas"
     wallOfDarkness_description: "Esconda-se por trás de uma parede de sombras para evitar o olhares curiosos."
 
-#  avatar_selection:
-#    pick_an_avatar: "Pick an avatar that will represent you as a player"
+#  avatar_selection:"Seleção de avatar"
+#    pick_an_avatar:"Escolhe um avatar que vai representar você como jogador" 
 
   premium_features:
     get_premium: "Assine<br>CodeCombat<br>Premium" # Fit into the banner on the /features page
@@ -2341,7 +2341,7 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     certificate_lines_of: "linhas de"
     certificate_levels_completed: "níveis completados"
     certificate_for: "Para"
-#    certificate_number: "No."
+#    certificate_number: "Numero"
 
   achievements:
     last_earned: "Últimos Ganhos"
@@ -2430,16 +2430,16 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     you_can3: "que pode ser aplicado à sua conta ou dado a outras pessoas."
 
 #  ozaria_chrome:
-#    sound_off: "Sound Off"
-#    sound_on: "Sound On"
-#    back_to_map: "Back to Map"
-#    level_options: "Level Options"
-#    restart_level: "Restart Level"
+#    sound_off: "Desligar o som"
+#    sound_on: "Ligar o som"
+#    back_to_map: "Voltar para o mapa"
+#    level_options: "Opção de níveis"
+#    restart_level: "Recomeçar o nível"
 
 #  impact:
-#    hero_heading: "Building A World-Class Computer Science Program"
-#    hero_subheading: "We Help Empower Educators and Inspire Students Across the Country"
-#    featured_partner_story: "Featured Partner Story"
+#    hero_heading: "Desenvolvendo um Programa de Ciências Computacionais de nível internacional" 
+#    hero_subheading:"Ajudamos Empoderar Educadores e Inspira Estudantes em Todo o País" 
+#    featured_partner_story: "História de Parceiro Destacado"
 #    partner_heading: "Successfully Teaching Coding at a Title I School"
 #    partner_school: "Bobby Duke Middle School"
 #    featured_teacher: "Scott Baily"
